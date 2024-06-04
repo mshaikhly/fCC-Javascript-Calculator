@@ -1,0 +1,57 @@
+:root {
+  --font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --line-height: 1.5;
+  --font-weight: 400;
+  --color-light: rgba(0, 0, 0, 0.87);
+  --color-dark: rgba(255, 255, 255, 0.87);
+  --background-light: #ffffff;
+  --background-dark: #242424;
+  --white: white;
+  --light-gray: #f0f0f0;
+  --dark-gray: #6c6c6c;
+  --black: #1e1e1e;
+  --yellow: #f99c14;
+}
+
+body {
+  font-family: var(--font-family);
+  line-height: var(--line-height);
+  font-weight: var(--font-weight);
+  color: var(--color-light);
+  background-color: var(--background-light);
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+body.dark-mode {
+  color: var(--color-dark);
+  background-color: var(--background-dark);
+}
+
+.custom-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 400px; /* Adjust this to limit the width of the container */
+}
+
+.equal-width-button {
+  flex: 1; /* Ensures buttons take equal space */
+}
+
+#answer {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+#expression {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
