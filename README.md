@@ -6,6 +6,9 @@ This repository contains a JavaScript Calculator built with React, Vite, and Typ
 
 You can view the live demo of the app [here](https://main--peppy-duckanoo-a432e7.netlify.app/).
 
+![image](https://github.com/user-attachments/assets/d9bf43e1-6132-4780-9a70-73f97c666c03)
+
+
 ## Features
 
 - **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division with a user-friendly interface.
