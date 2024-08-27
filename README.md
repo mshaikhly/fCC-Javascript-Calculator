@@ -48,7 +48,7 @@ The app fulfills the following user stories:
 
 ## 🎨 Personal Touch
 
-I added my own personal styling and features to enhance the user experience, making the calculator visually appealing and easy to use. These customizations make the app unique while adhering to the core functionality required by the project.
+I added my own personal styling and features to enhance the user experience, making the calculator visually appealing and easy to use. These customizations make the app unique while adhering to the core functionality required by the project. I add a dark/light mode button.
 
 ## How to Run the Project Locally
 
@@ -72,19 +72,3 @@ I added my own personal styling and features to enhance the user experience, mak
 
    Go to http://localhost:3000 to see the app in action.
 
-## 💻 How It Works
-
-- **App Structure**: The app is built with a modular structure using React components, which allows for better code organization and scalability.
-- **TypeScript for Type Safety**: TypeScript ensures type safety throughout the project, catching potential errors early in development.
-- **Vite for Fast Development**: Vite is used for a modern and efficient development experience, providing fast build times and instant feedback.
-- **State Management**: React’s built-in state management is used to handle the calculator’s current inputs, operations, and results.
-
-## 📚 Additional Notes
-
-- This project demonstrates my skills in building web applications using React, with a focus on type safety and performance optimizations.
-- Feel free to use this project as a reference or modify it for your own purposes. The modular design allows for easy customization.
-- Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## 🎨 Personal Touch
-
-I added my own personal styling and features to enhance the user experience, making the calculator visually appealing and easy to use. These customizations make the app unique while adhering to the core functionality required by the project.
